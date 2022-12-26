@@ -1,0 +1,73 @@
+.ImgCarusel{
+     
+ 
+    height: 500px;
+
+    transition: transform .6s; /* Animation */
+}
+.ImgCarusel:hover {
+  transform: scale(1.5); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
+
+
+.carousel {
+    margin-top: 3%;
+
+    box-shadow: -2px 0px 20px 10px rgba(96, 166, 234, 0.75);
+
+  }
+
+
+
+ .carousel-indicators [data-bs-target]{
+
+    background-color: #ffffff;
+
+ }
+
+ .carousel-caption{
+
+    color: #f6faff;
+    background-color: #295886;
+
+    right: 20%;
+    bottom: 1.25rem;
+    left: 20%;
+    padding-top: 0.25rem;
+    padding-bottom: 0.25rem;
+
+}
+
+@media screen and (max-width: 540px) {
+   
+
+  .ImgCarusel {
+    height: 300px;
+ }
+
+ .carousel-indicators{
+
+  margin-bottom: 0rem;
+
+ }
+
+ .carousel-caption{
+
+right: 5%;
+bottom: 0.25rem;
+left: 5%;
+padding-top: 0;
+padding-bottom: 0;
+font-size: x-small;
+
+ }
+
+}
+
+.carousel-item {
+  transition: transform 1s ease-in-out;
+}
+.carousel-fade .active.carousel-item-start,
+.carousel-fade .active.carousel-item-end {
+  transition: opacity 0s 1.5s;
+}
