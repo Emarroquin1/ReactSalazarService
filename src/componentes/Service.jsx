@@ -302,20 +302,80 @@ the plan according to their needs and wants.
 <tr>
 
 <td>
+
+“Gold”
+
 Remove concrete from rear of truck including:
 
+Charge Hoppers
+Collector Chute
+Rear Axle Parts
+Fenders
+Bumpers
+Brackets
+Ladders
+Wipe down of cab
+Scent Strip
+
+
+$750.00 
+
 
 </td>
 
 <td>
 
+”Silver”
+
 Remove all concrete from rear of truck including:
+
+
+Charge Hoppers
+Collector Chute
+Rear Axle Parts
+Fenders
+Bumpers
+Brackets
+Ladders
+Scent Strip
+Wash Entire Truck
+Chemical Treat Rear
+Clean / Treat  Rims
+Wipe Down Interior
+3.5 Gallon Loadkill
+
+
+
+
+$1,00.00 plus chemicals
 
 </td>
 
 <td>
 
+”Silver”
+
 Remove all concrete from rear of truck including:
+
+
+Charge Hoppers
+Collector Chute
+Rear Axle Parts
+Fenders
+Bumpers
+Brackets
+Ladders
+Scent Strip
+Wash Entire Truck
+Chemical Treat Rear
+Clean / Treat  Rims
+Wipe Down Interior
+3.5 Gallon Loadkill
+
+
+
+
+$1,00.00 plus chemicals
 
 </td>
 
