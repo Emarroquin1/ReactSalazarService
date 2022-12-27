@@ -25,7 +25,7 @@ function App() {
 <Route path='about' element={<Main/>}> </Route>
 <Route path='service' element={<Main/>}> </Route>
 <Route path='screenshot' element={<Main/>}> </Route>
-<Route path='*' element={<Header to="/"/>}></Route>
+<Route path='*' element={<Header to="/ReactSalazarService"/>}></Route>
 
 
       </Route>
