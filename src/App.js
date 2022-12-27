@@ -1,6 +1,8 @@
 
 //We import the librarys of react router
-import { BrowserRouter, Route, Routes } from 'react-router-dom';
+import { BrowserRouter, BrowserRouter as Router, Route,Routes } from 'react-router-dom';
+
+
 
 
 
@@ -8,7 +10,7 @@ import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import Main from './main';
 
 import Header from './componentes/header';
-import Contact from './componentes/contact'
+import Contact from './componentes/contact';
 
 
 function App() {
@@ -16,21 +18,22 @@ function App() {
     <div className='App'> 
 
    
+   
     <BrowserRouter>
-    <Routes>
-      <Route path='/ReactSalazarService' element={ <Header/> } >
+      <Header></Header>
+      <Routes>
 
-<Route index element={<Main/>}></Route>
-<Route path='contact' element={<Contact/>}></Route>
-<Route path='about' element={<Main/>}> </Route>
-<Route path='service' element={<Main/>}> </Route>
-<Route path='screenshot' element={<Main/>}> </Route>
-<Route path='*' element={<Header to="/ReactSalazarService"/>}></Route>
+      <Route  path='/ReactSalazarService' element={<Main/>}/>
+
+<Route path='/ReactSalazarService/contact' element={<Contact/>}></Route>
+
+      </Routes>
 
 
-      </Route>
-    </Routes>
+
+     
     </BrowserRouter>
+  
     </div>
  );
 }

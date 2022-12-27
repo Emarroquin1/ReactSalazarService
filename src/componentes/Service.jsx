@@ -286,7 +286,7 @@ the plan according to their needs and wants.
 </span>
 <p></p>
 <table class="table table-dark ">
-<th  colSpan={12} style={{color:"black", textAlign:"center"}} >OUR PLANS</th>
+<thead  colSpan={12} style={{color:"black", textAlign:"center"}} >OUR PLANS</thead>
 <tbody>
 <tr>
 <td>
