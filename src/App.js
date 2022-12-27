@@ -18,7 +18,7 @@ function App() {
    
     <BrowserRouter>
     <Routes>
-      <Route path='/' element={ <Header/> } >
+      <Route path='/ReactSalazarService' element={ <Header/> } >
 
 <Route index element={<Main/>}></Route>
 <Route path='contact' element={<Contact/>}></Route>
