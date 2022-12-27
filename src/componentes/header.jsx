@@ -18,16 +18,16 @@ return(
           <a className="nav-link active" aria-current="page" href="/ReactSalazarService"  >Home</a>
         </li>
         <li className="nav-item">
-          <a className="nav-link"  href="/contact" >Contact</a>
+          <a className="nav-link"  href="/ReactSalazarService/contact" >Contact</a>
         </li>
         <li className="nav-item">
-          <a className="nav-link" href="/#about" >About us</a>
+          <a className="nav-link" href="/ReactSalazarService/#about" >About us</a>
         </li>
         <li className="nav-item">
-          <a className="nav-link" href="/#service">Services</a>
+          <a className="nav-link" href="/ReactSalazarService/#service">Services</a>
         </li>
         <li className="nav-item">
-          <a className="nav-link" href="/#screenshot">Our Jobs</a>
+          <a className="nav-link" href="/ReactSalazarService/#screenshot">Our Jobs</a>
         </li>
       </ul>
     </div>
