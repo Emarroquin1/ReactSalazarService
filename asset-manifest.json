@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ReactSalazarService/static/css/main.7e344d37.css",
-    "main.js": "/ReactSalazarService/static/js/main.545d722f.js",
+    "main.js": "/ReactSalazarService/static/js/main.8a0cbad5.js",
     "static/media/landscape.jpg": "/ReactSalazarService/static/media/landscape.8b0b0bb9fed1aa4fc941.jpg",
     "static/media/w12.jpeg": "/ReactSalazarService/static/media/w12.eebfd00521364caec460.jpeg",
     "static/media/wa1.jpeg": "/ReactSalazarService/static/media/wa1.bcb5e295bb58a5e32073.jpeg",
@@ -20,10 +20,10 @@
     "static/media/preasurewatch.jpg": "/ReactSalazarService/static/media/preasurewatch.75bf7659322afa073d7c.jpg",
     "index.html": "/ReactSalazarService/index.html",
     "main.7e344d37.css.map": "/ReactSalazarService/static/css/main.7e344d37.css.map",
-    "main.545d722f.js.map": "/ReactSalazarService/static/js/main.545d722f.js.map"
+    "main.8a0cbad5.js.map": "/ReactSalazarService/static/js/main.8a0cbad5.js.map"
   },
   "entrypoints": [
     "static/css/main.7e344d37.css",
-    "static/js/main.545d722f.js"
+    "static/js/main.8a0cbad5.js"
   ]
 }
