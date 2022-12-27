@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/ReactSalazarService/static/css/main.7e344d37.css",
+    "main.js": "/ReactSalazarService/static/js/main.c5ada459.js",
+    "static/media/landscape.jpg": "/ReactSalazarService/static/media/landscape.8b0b0bb9fed1aa4fc941.jpg",
+    "static/media/w12.jpeg": "/ReactSalazarService/static/media/w12.eebfd00521364caec460.jpeg",
+    "static/media/wa1.jpeg": "/ReactSalazarService/static/media/wa1.bcb5e295bb58a5e32073.jpeg",
+    "static/media/w2.jpeg": "/ReactSalazarService/static/media/w2.60ff9d77245cd18aaeca.jpeg",
+    "static/media/w6.jpeg": "/ReactSalazarService/static/media/w6.5c2b9efe5460ba33c94b.jpeg",
+    "static/media/w4.jpeg": "/ReactSalazarService/static/media/w4.0c1b9c8d7e8bd7874bb5.jpeg",
+    "static/media/w11.jpeg": "/ReactSalazarService/static/media/w11.5c0968856f938e78b066.jpeg",
+    "static/media/w14.jpeg": "/ReactSalazarService/static/media/w14.c94ab2f4c1ac0274ada4.jpeg",
+    "static/media/w7.jpeg": "/ReactSalazarService/static/media/w7.f2c2f93c6ff82159c2ba.jpeg",
+    "static/media/w10.jpeg": "/ReactSalazarService/static/media/w10.a7f81d99c4a265ffda32.jpeg",
+    "static/media/w15.jpeg": "/ReactSalazarService/static/media/w15.4eda7e429db18b8f0dbe.jpeg",
+    "static/media/w13.jpeg": "/ReactSalazarService/static/media/w13.905df3844185affca1e0.jpeg",
+    "static/media/w8.jpeg": "/ReactSalazarService/static/media/w8.398e29d5b0374a1ab5b9.jpeg",
+    "static/media/w3.jpeg": "/ReactSalazarService/static/media/w3.90a1df1198ab3ee1e472.jpeg",
+    "static/media/w9.jpeg": "/ReactSalazarService/static/media/w9.3bbd987311855ad4768b.jpeg",
+    "static/media/preasurewatch.jpg": "/ReactSalazarService/static/media/preasurewatch.75bf7659322afa073d7c.jpg",
+    "index.html": "/ReactSalazarService/index.html",
+    "main.7e344d37.css.map": "/ReactSalazarService/static/css/main.7e344d37.css.map",
+    "main.c5ada459.js.map": "/ReactSalazarService/static/js/main.c5ada459.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e344d37.css",
+    "static/js/main.c5ada459.js"
+  ]
+}
