@@ -4,12 +4,12 @@ import React from "react";
 function About(props){
     return(
        
-        <div id="about" className="about">
-           <div className="container">
+        <div  id="about" className="about">
+           <div  className="container">
               <div className="row">
-                 <div className="col-md-12">
+                 <div   className="col-md-12">
                     <div className="titlepage">
-                       <h2>{props.titulo}</h2>
+                       <h2 >{props.titulo}</h2>
                        <span>{props.texto1} 
                        </span>
                     </div>

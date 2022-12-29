@@ -7,7 +7,6 @@ import Ourjobs from './componentes/OurJobs';
 import Service from './componentes/Service';
 
 
-
 import w1 from './imagenesWork/wa1.jpeg'
 import w2 from './imagenesWork/w2.jpeg'
 import w3 from './imagenesWork/w3.jpeg'
@@ -29,7 +28,10 @@ import service2 from './images/landscape.jpg'
 import service3 from './images/preasurewatch.jpg'
 
 
+import Header from './componentes/header';
 
+
+import Contact from './componentes/contact';
 
 import './styleLeaves/Header.css';
 import './styleLeaves/Carousel.css';
@@ -40,8 +42,12 @@ import './styleLeaves/Service.css';
 
 function Main() {
   return (
-    <div className="Home">
+
     
+
+    <div className="Home">
+  <Header></Header>   
+
       <Carousel  
       TituloCarousel1="Painting"
       texto1="We offer a lot of services for everyone who wants to receive services of painting, 
@@ -153,6 +159,7 @@ and resolved. With average rain fall most panels are self-cleaning.'
   
 </Service>
 
+<Contact></Contact>
     </div>
   );
 }

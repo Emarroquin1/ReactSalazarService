@@ -214,6 +214,7 @@ return(
     <div className="container">
     
     <div className="row">
+      
                <div className="col-md-12">
                   <div className="titlepage">
                      <h3>Contact Us</h3>

@@ -5,12 +5,12 @@ function Ourjobs (props){
     return(
 
 
-        <div id="screenshot" className="Screenshot">
+        <div id="Ourjobs"  className="Screenshot">
         <div className="container">
            <div className="row">
               <div className="col-md-12">
                  <div className="titlepage">
-                    <h2 style={{fontSize: "x-large"}}>Our Jobs</h2>
+                    <h2   style={{fontSize: "x-large"}}>Our Jobs</h2>
                     <span style={{fontSize: "medium"}}>Well in this part you can see somejobs that we did you can see our professionalism and our great Jobs</span>
                  </div>
               </div>

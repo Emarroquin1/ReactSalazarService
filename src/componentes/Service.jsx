@@ -144,7 +144,7 @@ const abrirImagen6 = ()=>{
     return(
 
    
-      <div id="service" className="service">
+      <div  id="service" className="service">
          <div className="container">
             <div className="row">
                <div className="col-md-12">
@@ -285,9 +285,13 @@ The feedback from mechanics and drivers has been very positive but has also allo
 the plan according to their needs and wants.   
 </span>
 <p></p>
-<table class="table table-dark ">
-<thead  colSpan={12} style={{color:"black", textAlign:"center"}} >OUR PLANS</thead>
+<table className="table table-dark ">
+<thead><tr>
+<th colSpan={12}>Our Plans</th>
+</tr>
+</thead>
 <tbody>
+ 
 <tr>
 <td>
    <b>Gold</b>
@@ -303,7 +307,6 @@ the plan according to their needs and wants.
 
 <td>
 
-“Gold”
 
 Remove concrete from rear of truck including:
 
@@ -325,7 +328,7 @@ $750.00
 
 <td>
 
-”Silver”
+
 
 Remove all concrete from rear of truck including:
 
@@ -353,7 +356,7 @@ $1,00.00 plus chemicals
 
 <td>
 
-”Silver”
+
 
 Remove all concrete from rear of truck including:
 

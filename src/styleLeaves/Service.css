@@ -12,7 +12,7 @@
 	
 	padding-bottom: 20px;
 	background: #f4f4f4;
-	margin-top: 10px;
+	margin-top: 3%;
 }
 
 .service .titlepage span {
@@ -133,4 +133,9 @@
 #lista{
 	text-align: left;
 	border-bottom: rgba(15, 163, 255, 0.9) solid 1px;
+}
+
+.nav-link{
+
+	cursor: pointer;
 }
