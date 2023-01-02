@@ -49,3 +49,22 @@
 #navbarNavDropdown{
     transition: 1s;
 }
+
+#logo{
+
+    width: 150px;
+    height: 100px;
+    position:  absolute;
+    top: 0;
+}
+
+@media screen and (max-width: 540px) {
+
+    #logo{
+ width: 90px;
+height: 60px;
+position: relative;
+top: 0;
+    }
+    
+}

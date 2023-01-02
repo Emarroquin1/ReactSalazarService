@@ -2,7 +2,7 @@ import React from "react";
 
 
 import { Link as ScrollLink } from "react-scroll";
-
+import Logo from '../images/SalazarServiceLogo.png'
 
 function Header(){
   
@@ -12,7 +12,7 @@ return(
 
     <nav className="navbar navbar-expand-lg navbar-dark  bg-blue">
   <div className="container-fluid">
-    <ScrollLink className="navbar-brand" to="carouselExampleCaptions">Salazar Services</ScrollLink>
+    <ScrollLink className="navbar-brand" style={{cursor:"pointer"}} to="carouselExampleCaptions"><img alt="logo" id="logo" src={Logo}></img></ScrollLink>
     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
       <span className="navbar-toggler-icon"></span>
     </button>

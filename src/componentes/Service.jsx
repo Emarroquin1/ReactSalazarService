@@ -321,7 +321,7 @@ Wipe down of cab
 Scent Strip
 
 
-$750.00 
+
 
 
 </td>
@@ -350,7 +350,6 @@ Wipe Down Interior
 
 
 
-$1,00.00 plus chemicals
 
 </td>
 
@@ -377,8 +376,6 @@ Wipe Down Interior
 
 
 
-
-$1,00.00 plus chemicals
 
 </td>
 
